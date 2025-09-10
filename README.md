@@ -67,7 +67,6 @@ Phone Number: 01920722014
 
 Email: sahinislam1012@gmail.com
 
-💡 Open for collaboration, internships & exciting projects!
 
 git clone https://github.com/sahinislam101/Blogify.git
 cd Blogify
